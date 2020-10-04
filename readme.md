@@ -13,13 +13,11 @@ Look, it's called scaling and we hate it. They're called phones and we hate them
 
 ### Wow this is so perfect and amazing, can you make it available on a CDN for me?
 
-No! I don't trust y'all! You have lost my trust! Far and away the most important part of this CSS framework (:sweat_smile:) *is not even CSS*
+No! I don't trust y'all! You have lost my trust! Far and away the most important part of this CSS framework (:sweat_smile:) *is not even CSS* and so can't be served from a CDN:
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
-
-To put this on a CDN, the CSS couldn't be inlined and then it would be separated from the only part of this repo that actually matters.
 
 SCALE YOUR THING. I WANT TO READ YOUR THING ON MY PHONE. SCALE IT.
 
