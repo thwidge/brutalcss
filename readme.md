@@ -7,7 +7,7 @@
 
 ## What is Brutal CSS?
 
-Brutal CSS is an immature expression of my frustration with other brutalist website dorks who don't include the one meta tag that makes your website work on mobile.
+Brutal CSS is an immature expression of my frustration with other brutalist website nerds who don't include the one meta tag that makes your website work on mobile.
 
 Look, it's called scaling and we hate it. They're called phones and we hate them too. But you gotta do it. You just gotta.
 
