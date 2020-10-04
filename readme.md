@@ -1,5 +1,5 @@
 
-*Brutally unattractive, works-on-mobile CSS for the masses.*
+*Brutally unattractive, works-on-mobile CSS for the masses*
 
 # Brutal CSS 
 
