@@ -13,8 +13,7 @@ Look, it's called scaling and we hate it. They're called phones and we hate them
 
 ### Wow this is so perfect and amazing, can you make it available on a CDN for me?
 
-No! I don't trust y'all! You have lost my trust! Far and away the most important part of this CSS framework (:sweat_smile:) *is not even CSS* and so can't be served from a CDN:
-
+No! The most important part of this CSS framework (:sweat_smile:) *is not even CSS*
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1">
 ```
@@ -23,4 +22,4 @@ SCALE YOUR THING. I WANT TO READ YOUR THING ON MY PHONE. SCALE IT.
 
 ### OK, jeez calm down. Why'd you style the `<pre>` tag?
 
-Look I just know my audience. Please scale your thing.
+Gotta know your audience. Please scale your thing.
